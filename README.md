@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ruan</h1>
-<h3 align="center">I found a new passion when I started learning about Web Development. Currently, I am focused on front-end web development, but eventually, I want to become a full-stack web developer. 
+<h1 align="center">Hi 👋, I'm Ruan</h1>
+<h3 align="center">I found a new passion when I started learning about Web Development. Currently, I am focused on improving my front-end web development skills, but I am aspiring to become a full-stack web developer.
 
 </h3>
 
@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on various front-end projects.
-- 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🐥 I’m currently working on various front-end projects.
+- 👨‍🎓 I’m learning JavaScript.
+- 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with anything related to web development. 
 - 💬 Ask me about anything.
 - 📫 How to reach me: **ruan.esterhuyse@gmail.com**
