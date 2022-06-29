@@ -11,7 +11,6 @@
 - 🐥 I’m currently working on various front-end projects.
 - 👨‍🎓 I’m learning JavaScript.
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with anything related to web development. 
 - 💬 Ask me about anything.
 - 📫 How to reach me: **ruan.esterhuyse@gmail.com**
 
