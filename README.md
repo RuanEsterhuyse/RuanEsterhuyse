@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ruan</h1>
-<h3 align="center">I found a new passion when I started learning about Web Development. Currently, I am focused on improving my front-end web development skills, but I am aspiring to become a full-stack web developer.
-
+<h3 align="center">I found a new passion when I started learning about Web Development. 
 </h3>
 
 ## 👨‍💻 About Me
