@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ruan</h1>
-<h3 align="center">I found a new passion when I started learning about Web Development. 
+<h3 align="center">Front-End Developer 
 </h3>
 
 ## 👨‍💻 About Me
