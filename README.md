@@ -1,42 +1,65 @@
-
 <h1 align="center">Hi 👋, I'm Ruan</h1>
-<h3 align="center"> Front-End Developer 
+
+<h3 align="center">
+Building modern web applications with JavaScript, React, and AI
 </h3>
 
 ## 👨‍💻 About Me
 
+- 🚀 I enjoy building modern, responsive web applications that solve real-world problems.
+- 💻 Currently building practical projects with HTML, CSS, JavaScript, and React.
+- 🌱 Currently expanding my skills in TypeScript, Next.js, and AI integration.
+- 🎯 Passionate about creating clean user experiences and writing maintainable code.
+- 📍 Based in Maryland, USA.
 
+## 🚀 Current Focus
 
-- 🐥 I’m currently working on various projects.
-- 👨‍🎓 I’m learning JavaScript.
-- 👀 I’m looking to collaborate on any projects. 
-- 💬 Ask me about anything.
-- 📫 How to reach me: **ruan.esterhuyse@gmail.com**
+- Building original web applications
+- Strengthening JavaScript and React
+- Exploring AI integration
+- Creating production-quality portfolio projects
 
-## 🚀 Languages and Tools:
+## 🛠 Languages & Tools
 
 <p align="left"> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/figma.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>   
-   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-  <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-</p> 
-
-## Let's Connect:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/ruanesterhuyse/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-
+    <a href="https://www.figma.com/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    </a> 
+    <a href="https://sass-lang.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    </a> 
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    </a> 
+    <a href="https://react.dev/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    </a>
 </p>
 
+## 🎯 Current Goals
 
+- Build production-quality web applications
+- Deepen my React and TypeScript skills
+- Learn Next.js
+- Explore AI-powered web applications
+- Contribute to open-source projects
 
+## 🤝 Let's Connect
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/ruanesterhuyse/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+    </a>
+</p>
