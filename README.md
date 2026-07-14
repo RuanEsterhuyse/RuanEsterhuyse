@@ -10,9 +10,9 @@ Building modern web applications with JavaScript, React, and AI
 
 I'm passionate about building modern, responsive web applications that solve real-world problems.
 
-I enjoy creating intuitive user experiences with HTML, CSS, JavaScript, and React while continuously learning new technologies and improving my development skills.
+I enjoy creating clean, user-focused software with HTML, CSS, JavaScript, and React while continuously improving my skills and exploring new technologies.
 
-Currently, I'm focused on building original applications, exploring AI integration, and creating production-quality software.
+I'm currently focused on building original portfolio projects, learning modern web development, and exploring AI-powered applications.
 
 ---
 
@@ -30,7 +30,7 @@ Currently, I'm focused on building original applications, exploring AI integrati
 
 - TypeScript
 - Next.js
-- AI APIs
+- AI Integration
 - Full-Stack Development
 
 ---
@@ -59,7 +59,7 @@ Currently, I'm focused on building original applications, exploring AI integrati
 <img src="https://img.icons8.com/color/48/000000/sass.png"/>
 </a>
 
-<a href="https://getbootstrap.com" target="_blank">
+<a href="https://getbootstrap.com/" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </a>
 
@@ -78,20 +78,11 @@ Currently, I'm focused on building original applications, exploring AI integrati
 ## 🎯 2026 Goals
 
 - Build production-quality web applications
-- Master React and TypeScript
+- Strengthen my React and TypeScript skills
 - Learn Next.js
 - Learn backend development
 - Build AI-powered software
 - Contribute to open-source projects
-
----
-
-## 🚀 Upcoming Projects
-
-- 📚 AI Reading Platform
-- 💼 Job Application Tracker
-- 💰 Personal Finance Dashboard
-- 🌐 Personal Portfolio Website
 
 ---
 
