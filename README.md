@@ -8,7 +8,7 @@ Building AI-powered educational software with Python, TypeScript, React, and mod
 
 # 👨‍💻 About Me
 
-I'm an educator with a passion for building AI-powered software that solves real-world problems.
+I'm an ELD teacher with a passion for building AI-powered software that solves real-world problems.
 
 My current work focuses on creating practical educational tools that combine Python, TypeScript, React, AI, and modern frontend development to improve teaching and learning.
 
