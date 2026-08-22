@@ -1,22 +1,10 @@
-<h1 align="center">Hi 👋 I'm Ruan</h1>
+# Hi 👋 I'm Ruan
 
-<h3 align="center">
-Building AI-powered educational software with Python, TypeScript, React, and modern frontend technologies.
-</h3>
+Learning programming and software development.
 
 ---
 
-# 👨‍💻 About Me
-
-I'm an ELD teacher with a passion for building AI-powered software that solves real-world problems.
-
-My current work focuses on creating practical educational tools that combine Python, TypeScript, React, AI, and modern frontend development to improve teaching and learning.
-
-I enjoy learning software engineering by building real projects and continuously expanding my knowledge of AI application development, frontend engineering, backend systems, and software architecture.
-
----
-
-# 🌟 Featured Project
+# Featured Project
 
 ## TeacherOS
 
@@ -37,29 +25,6 @@ TeacherOS is an AI-powered lesson planning platform that transforms authorized c
 
 ---
 
-# 🚀 Current Focus
-
-- TeacherOS
-- AI-powered educational software
-- Python
-- TypeScript
-- React
-- Modern frontend development
-- Software architecture
-- Google APIs
-
----
-
-# 📚 Currently Learning
-
-- Advanced Python
-- TypeScript
-- Next.js
-- Backend engineering
-- Cloud deployment
-- AI systems
-
----
 
 # 🛠 Languages & Technologies
 
@@ -106,17 +71,6 @@ TeacherOS is an AI-powered lesson planning platform that transforms authorized c
 </a>
 
 </p>
-
----
-
-# 🎯 2026 Goals
-
-- Continue developing TeacherOS
-- Build production-quality AI applications
-- Strengthen software architecture skills
-- Learn cloud technologies
-- Contribute to open-source projects
-- Create software that improves education
 
 ---
 
