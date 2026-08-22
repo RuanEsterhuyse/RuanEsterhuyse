@@ -1,7 +1,6 @@
 # Hi 👋 I'm Ruan
 
-Learning programming and software development.
-
+Learning software development.
 ---
 
 # Featured Project
